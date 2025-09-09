@@ -1,0 +1,31 @@
+{
+    "setDBPort": 8000,
+    "setServerIp": "",
+    
+    "mainOwner": "573113825327",
+
+    "mainBotStore": false,
+    "mainBotNumber": "",
+    "mainBotPrefix": ".¿?¡!#%&/,~@",
+    "mainBotName": "@HorekuOs",
+    "mainBotAuto-read": true,
+
+    "subBotStore": false,
+    "subBotPrefix": ".¿?¡!#%&/,~@",
+    "subBotName": "@HorekuOs (subBot)",
+    "subBotAuto-read": true,
+    
+    "reactEmojis": {
+        "waiting": "⏱️",
+        "success": "✅",
+        "failure": "❎"
+    },
+    "SetUsetRoles": {
+        "573113825327": {
+            "rowner": true,
+            "owner": true,
+            "modr": true,
+            "prem": true
+        }
+    }
+}
