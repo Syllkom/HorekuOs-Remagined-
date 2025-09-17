@@ -16,17 +16,13 @@ export default {
 
         await m.react('wait')
         
-        const sabiasque = global.sabiasQue.sabiasq[Math.floor(Math.random() * global.sabiasQue.sabiasq.length)]
+        const sabiasque = global.sabiasQue.vos_sabiasq[Math.floor(Math.random() * global.sabiasQue.vos_sabiasq.length)]
 
         const menu = `✦ *${global.nmbot} - Bot*
 - Usuario: @${m.sender.number}
 - Activo: \`${timeString(process.uptime())}\`
-
-● *Owner:*
-- Creador: @${global.own}
-  Wa.me/${global.settings.mainOwner}
-- Web - site:
-  syllkom.vercel.app/
+- Creador: *—Syll's*
+ + ${settings.mainOwner}
 
 *▢* \`\`\`¿Sabías qué?\`\`\` _${sabiasque}_
 ${readMore}
@@ -34,33 +30,26 @@ ${readMore}
 
 ╭ ✦ *</Main>*
 ╵/ping
-╵/menu
+╵/help
 ╰╶╴──────╶╴─╶╴◯
 
-╭ ✦ *</Group>*
+╭ ✦ *</Adm>*
+╵/config
+╵/kick
 ╵/tag
-╵/tagall
 ╰╶╴──────╶╴─╶╴◯
 
 ╭ ✦ *</Service>*
 ╵/play
-╵/ia (next)
-╵/remini
-╵/tourl
+╵/edit
 ╰╶╴──────╶╴─╶╴◯
 
-╭ ✦ *</Search>*
-╵/yts
-╵/pin
-╰╶╴──────╶╴─╶╴◯
-
-╭ ✦ *</Download>*
-╵/yta
-╵/ytv
-╵/ig
-╵/fb
-╵/tiktok
-╵/tthd
+╭ ✦ *</Games>*
+╵/reg
+╵/bal
+╵/inventory
+╵/claim
+╵/perfil
 ╰╶╴──────╶╴─╶╴◯
 `
 
@@ -78,7 +67,7 @@ ${readMore}
                 mentionedJid: [m.sender.id],
                 externalAdReply: {
                     title: '',
-                    body: 'Powered by @Syllkom',
+                    body: 'Powered by @ScLab',
                     thumbnail: global.imghelp,
                     renderLargerThumbnail: true,
                     mediaType: 1,
