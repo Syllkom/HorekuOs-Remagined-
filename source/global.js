@@ -19,7 +19,7 @@ global.textBot = 'Powered by @Simple.bot'
 global.author = '○ HorekuOs - 𝟸𝟺/𝟽'
 global.nmbot = 'HorekuOs'
 global.own = 'Syllkom'
-global.desc = "HorekuOs | SyllsCode"
+global.desc = ""
 
 // images
 global.imghelp = fs.readFileSync('./images/menu.png')
