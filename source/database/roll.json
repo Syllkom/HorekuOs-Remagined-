@@ -1,0 +1,889 @@
+{
+  "waifus": [
+    {
+      "ID": 1,
+      "nombre": "Rias Gremory",
+      "genero": "femenino",
+      "edad": 18,
+      "imagen": [
+        "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/124441662_p0.png"
+      ],
+      "valor": 4000,
+      "rareza": "raro",
+      "serie": "High School DxD",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Cariñosa", "Directa"]
+      }
+    },
+    {
+      "ID": 2,
+      "nombre": "Akeno Himejima",
+      "genero": "femenino",
+      "edad": 18,
+      "imagen": [
+        "https://files.catbox.moe/pg67r5.jpg"
+      ],
+      "valor": 890,
+      "rareza": "comun",
+      "descripcion": "no seu",
+      "serie": "High School DxD",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Tímida"],
+        "habilidades": ["Dibujo", "Música"]
+      }
+    },
+    {
+      "ID": 3,
+      "nombre": "Miku Nakano",
+      "genero": "femenino",
+      "edad": 17,
+      "imagen": [
+        "https://images8.alphacoders.com/134/1346537.jpeg"
+      ],
+      "valor": 100000,
+      "rareza": "legendario",
+      "serie": "Go-Toubun no Hanayome",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Tímida", "Introvertida", "Romántica"],
+        "habilidades": ["Cocina tradicional", "Historia japonesa", "Costura"]
+      }
+    },
+    {
+      "ID": 4,
+      "nombre": "Itsuki Nakano",
+      "genero": "femenino",
+      "edad": 17,
+      "imagen": [
+        "https://images6.alphacoders.com/134/1344502.jpeg"
+      ],
+      "valor": 8000,
+      "rareza": "epico",
+      "serie": "Go-Toubun no Hanayome",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Seria", "Estudiosa", "Amante de la comida"],
+        "habilidades": ["Estudio", "Alimentación", "Empatía"]
+      }
+    },
+    {
+      "ID": 5,
+      "nombre": "Yotsuba Nakano",
+      "genero": "femenino",
+      "edad": 17,
+      "imagen": [
+        "https://images7.alphacoders.com/134/1341457.jpeg"
+      ],
+      "valor": 8500,
+      "rareza": "epico",
+      "serie": "Go-Toubun no Hanayome",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Alegre", "Positiva", "Servicial", "Distraída"],
+        "habilidades": ["Deportes", "Atletismo", "Ayudar a otros", "Resistencia física"]
+      }
+    },
+    {
+      "ID": 6,
+      "nombre": "Ichika Nakano",
+      "genero": "femenino",
+      "edad": 19,
+      "imagen": [
+        "https://images.alphacoders.com/134/1341453.jpeg"
+      ],
+      "valor": 8000,
+      "rareza": "epico",
+      "serie": "Go-Toubun no Hanayome",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Torpe", "Bienintencionada"],
+        "habilidades": ["Actuación", "Matemáticas"]
+      }
+    },
+    {
+      "ID": 7,
+      "nombre": "Nino Nakano",
+      "genero": "femenino",
+      "edad": 18,
+      "imagen": [
+        "https://images7.alphacoders.com/134/1346539.jpeg"
+      ],
+      "valor": 9000,
+      "rareza": "epico",
+      "serie": "Go-Toubun no Hanayome",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Hostil", "Maternal"],
+        "habilidades": ["Cocina", "Liderazgo"]
+      }
+    },
+    {
+      "ID": 8,
+      "nombre": "Mikasa Ackerman",
+      "genero": "femenino",
+      "edad": 19,
+      "imagen": [
+        "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/111946087_p0.jpg"
+      ],
+      "valor": 6000,
+      "rareza": "epico",
+      "serie": "Shingeki no Kyojin",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Fuerte", "Protectora"],
+        "habilidades": ["Combate", "Estrategia"]
+      }
+    },
+    {
+      "ID": 9,
+      "nombre": "Historia Reiss",
+      "genero": "femenino",
+      "edad": 18,
+      "imagen": [
+        "https://github.com/Syllkom/MyArchive/blob/main/images/124273276_p0.jpg?raw=true"
+      ],
+      "valor": 9500,
+      "rareza": "epico",
+      "serie": "Shingeki no Kyojin",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Amable", "Decidida"],
+        "habilidades": ["Liderazgo", "Compasión"]
+      }
+    },
+    {
+      "ID": 10,
+      "nombre": "Annie Leonhart",
+      "genero": "femenino",
+      "edad": 19,
+      "imagen": [
+        "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Annie.Leonhardt.full.3289670.jpg"
+      ],
+      "valor": 5000,
+      "rareza": "raro",
+      "serie": "Shingeki no Kyojin",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Fría", "Reservada"],
+        "habilidades": ["Combate", "Transformación en titán"]
+      }
+    },
+    {
+      "ID": 11,
+      "nombre": "Sasha Blouse",
+      "genero": "femenino",
+      "edad": 16,
+      "imagen": [
+        "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/90015170_p0.jpg"
+      ],
+      "valor": 4000,
+      "rareza": "raro",
+      "serie": "Shingeki no Kyojin",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Alegre", "Despreocupada"],
+        "habilidades": ["Tiro con arco", "Cocina"]
+      }
+    },
+    {
+      "ID": 12,
+      "nombre": "Hange Zoë",
+      "genero": "femenino",
+      "edad": 28,
+      "imagen": [
+        "https://images5.alphacoders.com/135/1353797.jpeg"
+      ],
+      "valor": 4500,
+      "rareza": "raro",
+      "serie": "Shingeki no Kyojin",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Curiosa", "Inteligente"],
+        "habilidades": ["Investigación", "Liderazgo"]
+      }
+    },
+    {
+      "ID": 13,
+      "nombre": "Aqua",
+      "genero": "femenino",
+      "edad": 18,
+      "imagen": [
+        "https://images.alphacoders.com/135/1358539.png"
+      ],
+      "valor": 7000,
+      "rareza": "epico",
+      "serie": "KonoSuba",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Inmadura", "Divertida"],
+        "habilidades": ["Magia de agua", "Curación"]
+      }
+    },
+    {
+      "ID": 14,
+      "nombre": "Megumin",
+      "genero": "femenino",
+      "edad": 16,
+      "imagen": [
+        "https://images8.alphacoders.com/792/792744.png"
+      ],
+      "valor": 10000,
+      "rareza": "legendario",
+      "estado": "disponible",
+      "serie": "KonoSuba",
+      "caracteristicas": {
+        "personalidad": ["Apasionada", "Excentrica"],
+        "habilidades": ["Magia explosiva", "Conocimiento mágico"]
+      }
+    },
+    {
+      "ID": 15,
+      "nombre": "Darkness",
+      "genero": "femenino",
+      "edad": 18,
+      "imagen": [
+        "https://picfiles.alphacoders.com/348/348290.jpg"
+      ],
+      "valor": 9000,
+      "rareza": "epico",
+      "serie": "KonoSuba",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Masocista", "Honorable"],
+        "habilidades": ["Combate cuerpo a cuerpo", "Defensa"]
+      }
+    },
+    {
+      "ID": 16,
+      "nombre": "Yunyun",
+      "genero" : "femenino",
+      "edad" : "16",
+      "imagen" : [
+        "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/126386779_p0.jpg"
+      	],
+      "valor" : 8000,
+      "rareza" : "raro",
+      "serie" : "KonoSuba",
+      "estado": "disponible",
+      "caracteristicas" : {
+        "personalidad" : ["Tímida", "Amable"],
+        "habilidades" : ["Magia", "Conocimiento"]
+      }
+    },
+    {
+      "ID": 17,
+      "nombre": "Lumine",
+      "genero": "femenino",
+      "edad": 16,
+      "imagen": [
+        "https://images8.alphacoders.com/134/1341681.png"
+      ],
+      "valor": 7500,
+      "rareza": "epico",
+      "serie": "Genshin Impact",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Valiente", "Curiosa"],
+        "habilidades": ["Magia Anemo", "Exploración"]
+      }
+    },
+    {
+      "ID": 18,
+      "nombre": "Raiden Shogun",
+      "genero": "femenino",
+      "edad": 20,
+      "imagen": [
+        "https://mfiles.alphacoders.com/100/1008763.jpg"
+      ],
+      "valor": 12000,
+      "rareza": "legendario",
+      "serie": "Genshin Impact",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Serena", "Decidida"],
+        "habilidades": ["Electro", "Combate"]
+      }
+    },
+    {
+      "ID": 19,
+      "nombre": "Fischl",
+      "genero": "femenino",
+      "edad": 16,
+      "imagen": [
+        "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/fischl-genshin-impact-arte-8098.webp"
+      ],
+      "valor": 8500,
+      "rareza": "raro",
+      "serie": "Genshin Impact",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Excéntrica", "Imaginativa"],
+        "habilidades": ["Electro", "Arquería"]
+      }
+    },
+    {
+      "ID": 20,
+      "nombre": "Yae Miko",
+      "genero": "femenino",
+      "edad": 18,
+      "imagen": [
+        "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/1351756.jpeg"
+      ],
+      "valor": 7000,
+      "rareza": "epico",
+      "serie": "Genshin Impact",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Juguetona", "Inteligente"],
+        "habilidades": ["Magia Electro", "Manipulación"]
+      }
+    },
+    {
+      "ID": 21,
+      "nombre": "Ganyu",
+      "genero": "femenino",
+      "edad": 18,
+      "imagen": [
+        "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Character_Ganyu_Game.jpeg"
+      ],
+      "valor": 7500,
+      "rareza": "epico",
+      "serie": "Genshin Impact",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Gentil", "Trabajadora"],
+        "habilidades": ["Cryo", "Arquería"]
+      }
+    },
+    {
+      "ID": 22,
+      "nombre": "Hu Tao",
+      "genero": "femenino",
+      "edad": 19,
+      "imagen": [
+        "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/126700036_p0_master1200.jpg"
+      ],
+      "valor": 11500,
+      "rareza": "legendario",
+      "serie": "Genshin Impact",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Jocosa", "Poderosa"],
+        "habilidades": ["Pyro", "Liderazgo"]
+      }
+    },
+    {
+      "ID": 23,
+      "nombre": "Klee",
+      "genero": "femenino",
+      "edad": 10,
+      "imagen": [
+        "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/125953919_p0_master1200.jpg"
+      ],
+      "valor": 80000,
+      "rareza": "epico",
+      "serie": "Genshin Impact",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Inocente", "Explosiva"],
+        "habilidades": ["Pyro", "Explosivos"]
+      }
+    },
+    {
+      "ID": 24,
+      "nombre": "Sangonomiya Kokomi",
+      "genero": "femenino",
+      "edad": 18,
+      "imagen": [
+        "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Sangonomiya%20Kokomi.jpg"
+      ],
+      "valor": 12000,
+      "rareza": "legendario",
+      "serie": "Genshin Impact",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Compasiva", "Inteligente"],
+        "habilidades": ["Hydro", "Curación"]
+      }
+    },
+    {
+      "ID": 25,
+      "nombre": "Yanfei",
+      "genero": "femenino",
+      "edad": 20,
+      "imagen": [
+        "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/124441177_p0.jpg"
+      ],
+      "valor": 9500,
+      "rareza": "epico",
+      "serie": "Genshin Impact",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Sarcástica", "Inteligente"],
+        "habilidades": ["Pyro", "Abogacía"]
+      }
+    },
+    {
+      "ID": 26,
+      "nombre": "Kujou Sara",
+    	"genero": "femenino",
+    	"edad": 20,
+    	"imagen":[
+        	"https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/125909933_p0.jpg"
+    	],
+    	"valor": 5000,
+    	"rareza": "raro",
+    	"serie": "Genshin Impact",
+    	"estado": "disponible",
+    	"caracteristicas":{
+        	"personalidad":["Leal", "Fuerte"],
+        	"habilidades":["Electro", "Apoyo"]
+    	}
+    },
+    {
+    	"ID": 27,
+    	"nombre": "Diona",
+    	"genero": "femenino",
+    	"edad": 12,
+    	"imagen":[
+        	"https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/126452007_p0_master1200.jpg"
+    	],
+    	"valor": 3000,
+    	"rareza": "raro",
+    	"serie": "Genshin Impact",
+    	"estado": "disponible",
+    	"caracteristicas":{
+        	"personalidad":["Tímida", "Protectora"],
+        	"habilidades":["Cryo", "Bebidas"]
+    	}
+    },
+    {
+    	"ID": 28,
+    	"nombre": "Eula Lawrence",
+    	"genero": "femenino",
+    	"edad": 20,
+    	"imagen":[
+        	"https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/126341568_p0.png"
+    	],
+    	"valor": 11000,
+    	"rareza": "legendario",
+    	"serie": "Genshin Impact",
+    	"estado": "disponible",
+    	"caracteristicas":{
+        	"personalidad":["Fuerte", "Independiente"],
+        	"habilidades":["Cryo", "Combate"]
+    	}
+    },
+    {
+      "ID": 29,
+      "nombre": "Sakura Kinomoto",
+      "genero": "femenino",
+      "edad": 10,
+      "imagen": [
+        "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Sakura%20Kinomoto%20(Cardcaptor%20Sakura).jpg"
+      ],
+      "valor": 900,
+      "rareza": "comun",
+      "serie": "Cardcaptor Sakura",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Inocente", "Amigable"],
+        "habilidades": ["Magia", "Captura de cartas"]
+      }
+    },
+    {
+      "ID": 30,
+      "nombre": "Hinata Hyuga",
+      "genero": "femenino",
+      "edad": 16,
+      "imagen": [
+        "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/64e19c54-0653-4935-b422-5d82e81520db.webp"
+      ],
+      "valor": 2800,
+      "rareza": "comun",
+      "serie": "Naruto",
+      "estado": "disponible",
+      "caracteristicas": {
+        "personalidad": ["Tímida", "Dedicada"],
+        "habilidades": ["Ninjutsu", "Taijutsu"]
+      }
+    },
+    {
+      "ID": 31,
+      "nombre": "Mikako Satsukitane",
+    	"genero": "femenino",
+    	"edad": 17,
+    	"imagen":[
+        	"https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Mikako%20Satsukitane%20(Gurren%20Lagann).jpg"
+    	],
+    	"valor": 1500,
+    	"rareza": "comun",
+    	"serie": "Gurren Lagann",
+    	"estado": "disponible",
+    	"caracteristicas":{
+        	"personalidad":["Excéntrica", "Creativa"],
+        	"habilidades":["Tecnología", "Estrategia"]
+    	}
+    },
+    {
+    	"ID": 32,
+    	"nombre": "Yui Hirasawa",
+    	"genero": "femenino",
+    	"edad": 16,
+    	"imagen":[
+        	"https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/125463133_p0.png"
+    	],
+    	"valor": 2200,
+    	"rareza": "comun",
+    	"serie": "K-On!",
+    	"estado": "disponible",
+    	"caracteristicas":{
+        	"personalidad":["Alegre", "Despreocupada"],
+        	"habilidades":["Música", "Canto"]
+    	}
+    },
+    {
+    	"ID": 33,
+    	"nombre": "Nyaruko",
+    	"genero": "femenino",
+    	"edad": "Desconocida",
+    	"imagen":[
+        	"https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/pixai-1842090962846789135-Nya.png"
+    	],
+    	"valor": 1800,
+    	"rareza": "comun",
+    	"serie": "Haiyore! Nyaruko: Crawling with Love!",
+    	"estado": "disponible",
+    	"caracteristicas":{
+        	"personalidad":["Divertida", "Caótica"],
+        	"habilidades":["Transformación", "Magia"]
+    	}
+    },
+    {
+    	"ID": 34,
+    	"nombre": "Chiyo Sakura",
+    	"genero": "femenino",
+    	"edad": 15,
+    	"imagen":[
+        	"https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Chiyo%20Sakura.jpg"
+    	],
+    	"valor": 2700,
+    	"rareza": "comun",
+    	"serie": "Monthly Girls' Nozaki-kun",
+    	"estado": "disponible",
+    	"caracteristicas":{
+        	"personalidad":["Optimista", "Dedicada"],
+        	"habilidades":["Dibujo", "Cómics"]
+    	}
+    },
+    {
+   	   "ID": 35,
+   	   "nombre": "Rem",
+       "genero": "femenino",
+   	   "edad": 17,
+       "imagen": [
+            "https://github.com/Syllkom/MyArchive/blob/main/images/1364850.png?raw=true"
+       ],
+       "valor": 12000,
+       "rareza": "legendario",
+       "serie": "Re:Zero - Starting Life in Another World",
+       "estado": "disponible",
+       "caracteristicas": {
+            "personalidad": ["Leal", "Fuerte"],
+            "habilidades": ["Magia", "Combate"]
+       }
+    },
+    {
+       "ID": 36,
+       "nombre": "Shinobu Kocho",
+       "genero": "femenino",
+       "edad": 18,
+       "imagen": [
+            "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/121470216_p0.jpg"
+       ],
+       "valor": 8500,
+       "rareza": "epico",
+       "serie": "Kimetsu no Yaiba",
+       "estado": "disponible",
+       "caracteristicas": {
+            "personalidad": ["Serena", "Inteligente"],
+            "habilidades": ["Técnicas de espada", "Toxicología"]
+       }
+    },
+    {
+       "ID": 37,
+       "nombre": "Maki Zenin",
+       "genero": "femenino",
+       "edad": 16,
+       "imagen": [
+            "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Maki%20Zenin%20Manga.jpeg"
+       ],
+       "valor": 5000,
+       "rareza": "raro",
+       "serie": "Jujutsu Kaisen",
+       "estado": "disponible",
+       "caracteristicas": {
+           "personalidad": ["Fuerte", "Decidida"],
+           "habilidades": ["Combate", "Hechicería"]
+       }
+    },
+    {
+       "ID": 38,
+       "nombre": "Chika Fujiwara",
+       "genero": "femenino",
+       "edad": 17,
+       "imagen": [
+            "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/116756900_p0.jpg"
+       ],
+       "valor": 4500,
+       "rareza": "raro",
+       "serie": "Kaguya-sama: Love Is War",
+       "estado": "disponible",
+       "caracteristicas": {
+            "personalidad": ["Divertida", "Inocente"],
+            "habilidades": ["Estrategia", "Canto"]
+       }
+    },
+    {
+       "ID": 39,
+       "nombre": "Violet Evergarden",
+       "genero": "femenino",
+       "edad": 19,
+       "imagen": [
+            "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/122767085_p0.png"
+       ],
+       "valor": 15000,
+       "rareza": "legendario",
+       "serie": "Violet Evergarden",
+       "estado": "disponible",
+       "caracteristicas": {
+            "personalidad": ["Determinado", "Honesto"],
+            "habilidades": ["Escritura", "Combate"]
+       }
+    },
+    {
+       "ID": 40,
+       "nombre": "Cattleyya Baudelaire",
+       "genero": "femenino",
+       "edad": 28,
+       "imagen": [
+            "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/pixelcut-export.jpeg"
+       ],
+       "valor": 8000,
+       "rareza": "epico",
+       "serie": "Violet Evergarden",
+       "estado": "disponible",
+       "caracteristicas": {
+            "personalidad": ["Amable", "Sabia"],
+            "habilidades": ["Escritura", "Liderazgo"]
+         }
+    },
+    {
+       "ID": 41,
+       "nombre": "Iris Cannary",
+       "genero": "femenino",
+       "edad": 22,
+       "imagen": [
+            "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/a-lot-of-translation-v0-u35a40yixpza1.jpg"
+      ],
+      "valor": 1000,
+      "rareza": "comun",
+      "serie": "Violet Evergarden",
+      "estado": "disponible",
+      "caracteristicas": {
+            "personalidad": ["Optimista", "Creativa"],
+            "habilidades": ["Escritura", "Dibujo"]
+       }
+    },
+    {
+    	"ID": 42,
+    	"nombre": "Luculia Marlborough",
+    	"genero": "femenino",
+    	"edad": 19,
+    	"imagen": [
+    		"https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Luculia%20Marlborough%20%20Violet%20Evergarden.jpg"
+    	],
+    	"valor": 4500,
+    	"rareza": "raro",
+    	"serie": "Violet Evergarden",
+    	"estado": "disponible",
+    	"caracteristicas": {
+    		"personalidad": ["Amable", "Dedicada"],
+    		"habilidades": ["Escritura", "Cuidado de otros"]
+    	}
+    },
+    {
+       "ID": 43,
+       "nombre": "Anna Yamada",
+       "genero": "femenino",
+       "edad": 14,
+       "imagen": [
+            "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Anna%20Yamada.jpg"
+       ],
+       "valor": 8000,
+       "rareza": "epico",
+       "serie": "Boku no Kokoro no Yabai Yatsu",
+       "estado": "disponible",
+       "caracteristicas": {
+            "personalidad": ["Amigable", "Bella"],
+            "habilidades": ["Modelaje", "Comer mucho"]
+       }
+    },
+    {
+       "ID": 44,
+       "nombre": "Sanae Yamada",
+       "genero": "femenino",
+       "edad": 40,
+       "imagen": [
+            "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Sanae%20Yamada.jpg"
+       ],
+       "valor": 5000,
+       "rareza": "epico",
+       "serie": "Boku no Kokoro no Yabai Yatsu",
+       "estado": "disponible",
+       "caracteristicas": {
+            "personalidad": ["Elegante", "Amable"],
+            "habilidades": ["Moda", "Cuidado de su hija"]
+       }
+    },
+    {
+       "ID": 45,
+       "nombre": "Moeko Sekine",
+       "genero": "femenino",
+       "edad": 14,
+       "imagen": [
+            "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Moeko%20Sekine.jpg"
+       ],
+       "valor": 7500,
+       "rareza": "epico",
+       "serie": "Boku no Kokoro no Yabai Yatsu",
+       "estado": "disponible",
+       "caracteristicas": {
+            "personalidad": ["Extrovertida", "Amigable"],
+            "habilidades": ["Animar a otros", "Moda"]
+       }
+    },
+    {
+       "ID": 46,
+       "nombre": "Chihiro Kobayashi",
+       "genero": "femenino",
+       "edad": 14,
+       "imagen": [
+            "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Chihiro%20Kobayashi.jpg"
+       ],
+       "valor": 2000,
+       "rareza": "comun",
+       "serie": "Boku no Kokoro no Yabai Yatsu",
+       "estado": "disponible",
+       "caracteristicas": {
+            "personalidad": ["Infantil", "Directa"],
+            "habilidades": ["Ser honesta", "Apoyo"]
+       }
+     },
+     {
+       "ID": 47,
+       "nombre": "Rimuru Tempest",
+       "genero": "no se, parece mujer y hombre XD",
+       "edad": "Desconocida",
+       "imagen": [
+            "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Rimuru%20Tempest.jpg"
+       ],
+       "valor": 6000,
+       "rareza": "epico",
+       "serie": "Tensei Shitara Slime Datta Ken",
+       "estado": "disponible",
+       "caracteristicas": {
+            "personalidad": ["Amigable", "Líder"],
+            "habilidades": ["Absorción", "Transformación"]
+       }
+    },
+    {
+       "ID": 48,
+       "nombre": "Milim Nava",
+       "genero": "femenino",
+       "edad": "2000+",
+       "imagen": [
+            "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Milim%20Nava.jpg"
+       ],
+       "valor": 4000,
+       "rareza": "raro",
+       "serie": "Tensei Shitara Slime Datta Ken",
+       "estado": "disponible",
+       "caracteristicas": {
+            "personalidad": ["Divertida", "Poderosa"],
+            "habilidades": ["Destrucción", "Combate"]
+       }
+    },
+    {
+       "ID": 49,
+       "nombre": "Shizue Izawa",
+       "genero": "femenino",
+       "edad": "Desconocida",
+       "imagen": [
+            "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Shizue%20Izawa.jpg"
+       ],
+       "valor": 9000,
+       "rareza": "epico",
+       "serie": "Tensei Shitara Slime Datta Ken",
+       "estado": "disponible",
+       "caracteristicas": {
+            "personalidad": ["Amable", "Fuerte"],
+            "habilidades": ["Invocación", "Control del fuego"]
+       }
+    },
+    {
+       "ID": 50,
+       "nombre": "Shuna",
+       "genero": "femenino",
+       "edad": "Desconocida",
+       "imagen": [
+            "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Shuna.jpg"
+       ],
+       "valor": 7500,
+       "rareza": "epico",
+       "serie": "Tensei Shitara Slime Datta Ken",
+       "estado": "disponible",
+       "caracteristicas": {
+            "personalidad": ["Amable", "Organizada"],
+            "habilidades": ["Magia", "Cocina"]
+       }
+    },
+    {
+       "ID": 51,
+       "nombre": "Testarossa",
+       "genero": "femenino",
+       "edad": "Desconocida",
+       "imagen": [
+            "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Testarossa(Tensei%20Shitara).jpg"
+       ],
+       "valor": 5000,
+       "rareza": "raro",
+       "serie": "Tensei Shitara Slime Datta Ken",
+       "estado": "disponible",
+       "caracteristicas": {
+            "personalidad": ["Cruel", "Inteligente"],
+            "habilidades": ["Magia", "Combate"]
+       }
+    },
+    {
+       "ID": 52,
+       "nombre": "Ultima",
+       "genero": "femenino",
+       "edad": "Desconocida",
+       "imagen": [
+            "https://raw.githubusercontent.com/Syllkom/MyArchive/refs/heads/main/images/Ultima(slime).jpg"
+       ],
+       "valor": 4000,
+       "rareza": "raro",
+       "serie": "Tensei Shitara Slime Datta Ken",
+       "estado": "disponible",
+       "caracteristicas": {
+            "personalidad": ["Alegre", "Poderosa"],
+            "habilidades": ["Magia", "Combate"]
+       }
+    }
+
+  ]
+}
